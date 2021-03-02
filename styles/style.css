@@ -61,6 +61,7 @@
   line-height: 25px;
   font-size: 18px;
   z-index: 2;
+  margin: 0;
 }
 
 .header__link {
