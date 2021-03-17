@@ -1,6 +1,8 @@
 .video {
-  display: flex;
   height: 450px;
+  display:flex;
   flex-direction: column;
   padding-top: 100px;
+  margin-bottom: -50px;
+  overflow: hidden;
 }
